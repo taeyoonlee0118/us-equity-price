@@ -1,5 +1,5 @@
 sectors = {
-    'watchlist' : ['DAL', 'PLTR', 'SNOW', 'CDNS', 'AAPL', 'MA'],
+    'watchlist' : ['DAL', 'PLTR', 'SNOW', 'CDNS', 'AAPL', 'MA', 'TSM', 'NXPI'],
     'platform': ['AMZN', 'MS', 'GOOG', 'FB'],
     'healthcare': ['PFE', 'MRNA', 'AZN', 'TDOC', 'LLY', 'JNJ', 'MRK', 'NVAX', 'GILD', 'CRSP'],
     'e-commerce' : ['SE', 'MELI', 'JMIA','SHOP', 'ABNB','CHWY', 'Z', 'FTCH'],
