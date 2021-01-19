@@ -1,6 +1,6 @@
 sectors = {
     'watchlist' : ['DAL', 'PLTR', 'SNOW', 'CDNS', 'AAPL', 'MA', 'TSM', 'NXPI'],
-    'platform': ['AMZN', 'MS', 'GOOG', 'FB'],
+    'platform': ['AMZN', 'MSFT', 'GOOG', 'FB'],
     'healthcare': ['PFE', 'MRNA', 'AZN', 'TDOC', 'LLY', 'JNJ', 'MRK', 'NVAX', 'GILD', 'CRSP'],
     'e-commerce' : ['SE', 'MELI', 'JMIA','SHOP', 'ABNB','CHWY', 'Z', 'FTCH'],
     'hardware': ['AAPL', 'CSCO', 'NVDA', 'TSM', 'INTC', 'AMD', 'QCOM', 'MU', 'ASML', 'AMAT', 'TER'],
