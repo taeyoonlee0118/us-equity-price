@@ -11,7 +11,7 @@ sectors = {
     're-energy': ['BE', 'PLUG', 'ENPH', 'FSLR', 'SEDG', 'NEE', 'ARRY','VWDRY'],
     'chemicals': ['XOM', 'CVX', 'MMM', 'DD', 'DOW', 'SLB'],
     'consumers': ['WMT', 'COST', 'PG', 'KO', 'NKE', 'SBUX', 'EL'],
-    'industrials': ['LMT', 'BA', 'CAT', 'DAL', 'UAL', 'AAL', 'HON', 'ROK', 'ETN', 'CARR', 'UPS'],
+    'industrials': ['LMT', 'BA', 'CAT', 'DAL', 'UAL', 'AAL', 'HON', 'ROK', 'ETN', 'CARR', 'UPS','FDX'],
     'delivery': ['DASH', 'GRUB']
 }
 
