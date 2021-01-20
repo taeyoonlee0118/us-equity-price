@@ -8,7 +8,7 @@ from app_db import macros
 col1, col2 = st.beta_columns(2)
 
 
-@st.cache
+# @st.cache
 def load_data(stock_list, start_date):
     data_list = [yf.download(stock, start_date)['Close'] for stock in stock_list]
     data = pd.concat(data_list, axis=1)
