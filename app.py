@@ -28,7 +28,7 @@ st.sidebar.title('Macro Indicator')
 st.sidebar.write('WORKS TO DO')
 macro_choice = st.sidebar.selectbox('인디케이터 선택하세요', [k for k in macros.keys()])
 macro_list = st.sidebar.multiselect('Select Indicators', macros[macro_choice], macros[macro_choice])
-st.sidebar.text('copywright by Taeyoon Lee')
+st.sidebar.text('copyright by Taeyoon Lee')
 
 
 df = load_data(sectors[sector_choice], start_date)
