@@ -12,7 +12,8 @@ sectors = {
     'chemicals': ['XOM', 'CVX', 'MMM', 'DD', 'DOW', 'SLB'],
     'consumers': ['WMT', 'COST', 'PG', 'KO', 'NKE', 'SBUX', 'EL'],
     'industrials': ['LMT', 'BA', 'CAT', 'DAL', 'UAL', 'AAL', 'HON', 'ROK', 'ETN', 'CARR', 'UPS','FDX'],
-    'delivery': ['DASH', 'GRUB']
+    'delivery': ['DASH', 'GRUB'],
+    'reits/etf' : ['SPG','ARKK', 'ARKW']
 }
 
 macros = {'fred': [],
